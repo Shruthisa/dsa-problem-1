@@ -1,0 +1,24 @@
+{
+  "name": "dsa-problem-1",
+  "version": "1.0.0",
+  "description": "DSA Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon http-server -p 3000 index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruthisa/dsa-problem-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruthisa/dsa-problem-1/issues"
+  },
+  "homepage": "https://github.com/Shruthisa/dsa-problem-1#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
